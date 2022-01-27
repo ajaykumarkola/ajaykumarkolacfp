@@ -1,0 +1,159 @@
+.elementor-27 .elementor-element.elementor-element-2e83beff:not(.elementor-motion-effects-element-type-background),
+.elementor-27 .elementor-element.elementor-element-2e83beff>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-27 .elementor-element.elementor-element-2e83beff {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 75px 0px 75px 0px;
+}
+
+.elementor-27 .elementor-element.elementor-element-2e83beff>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-27 .elementor-element.elementor-element-190aa2bb.elementor-column .elementor-column-wrap {
+    align-items: center;
+}
+
+.elementor-27 .elementor-element.elementor-element-190aa2bb.elementor-column.elementor-element[data-element_type="column"]>.elementor-column-wrap.elementor-element-populated>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-27 .elementor-element.elementor-element-190aa2bb.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-27 .elementor-element.elementor-element-190aa2bb>.elementor-column-wrap>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-27 .elementor-element.elementor-element-1d96500b img {
+    width: 150px;
+    border-radius: 100% 100% 100% 100%;
+}
+
+.elementor-27 .elementor-element.elementor-element-1d96500b>.elementor-widget-container {
+    margin: 0px 0px 40px 0px;
+}
+
+.elementor-27 .elementor-element.elementor-element-1d96500b {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-27 .elementor-element.elementor-element-a0cbb45 {
+    text-align: center;
+}
+
+.elementor-27 .elementor-element.elementor-element-a0cbb45 .elementor-heading-title {
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.3em;
+}
+
+.elementor-27 .elementor-element.elementor-element-a0cbb45>.elementor-widget-container {
+    margin: 0px 0px 20px 0px;
+}
+
+.elementor-27 .elementor-element.elementor-element-320cbe90 {
+    text-align: center;
+}
+
+.elementor-27 .elementor-element.elementor-element-320cbe90 .elementor-heading-title {
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.3em;
+}
+
+.elementor-27 .elementor-element.elementor-element-320cbe90>.elementor-widget-container {
+    margin: 0px 0px 20px 0px;
+}
+
+.elementor-27 .elementor-element.elementor-element-6c6de7a7 {
+    text-align: center;
+}
+
+.elementor-27 .elementor-element.elementor-element-6c6de7a7>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 15px;
+    --grid-column-gap: 15px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 .elementor-social-icon {
+    background-color: rgba(255, 255, 255, 0);
+    --icon-padding: 0.7em;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 .elementor-social-icon i {
+    color: #EF4232;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 .elementor-social-icon svg {
+    fill: #EF4232;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 .elementor-icon {
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 .elementor-social-icon:hover {
+    background-color: #222222;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 .elementor-social-icon:hover i {
+    color: #FFFFFF;
+}
+
+.elementor-27 .elementor-element.elementor-element-2ece710 .elementor-social-icon:hover svg {
+    fill: #FFFFFF;
+}
+
+@media(max-width:1024px) {
+    .elementor-27 .elementor-element.elementor-element-2e83beff {
+        padding: 40px 40px 40px 40px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-27 .elementor-element.elementor-element-2e83beff {
+        padding: 30px 30px 30px 30px;
+    }
+    .elementor-27 .elementor-element.elementor-element-a0cbb45 {
+        text-align: center;
+    }
+    .elementor-27 .elementor-element.elementor-element-a0cbb45 .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-27 .elementor-element.elementor-element-a0cbb45>.elementor-widget-container {
+        margin: 0px 0px 20px 0px;
+    }
+    .elementor-27 .elementor-element.elementor-element-320cbe90 {
+        text-align: center;
+    }
+    .elementor-27 .elementor-element.elementor-element-320cbe90 .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-27 .elementor-element.elementor-element-320cbe90>.elementor-widget-container {
+        margin: 0px 0px 20px 0px;
+    }
+    .elementor-27 .elementor-element.elementor-element-2ece710 {
+        --grid-column-gap: 5px;
+    }
+}
